@@ -5,7 +5,7 @@ about: Create a report to track your questions and answers
 ---
 
 **Describe the question**
-A clear and concise description of what the question is.
+A clear and concise description of what the question is.  The Golden Rule: Imagine You’re Trying To Answer The Question, what do you need?
 
 **To Reproduce**
 Steps to reproduce the behavior:
