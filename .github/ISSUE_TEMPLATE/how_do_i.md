@@ -1,6 +1,6 @@
 ---
 name: How do I report
-about: Create a report to help us improve
+about: Create a report to track your questions and answers
 
 ---
 
