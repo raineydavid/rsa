@@ -1,11 +1,11 @@
 ---
 name: How do I report
-about: Create a report to track your questions and answers
+about: Create a report to track your questions and answers.  The Golden Rule: Imagine You’re Trying To Answer The Question, what do you need?
 
 ---
 
 **Describe the question**
-A clear and concise description of what the question is.  The Golden Rule: Imagine You’re Trying To Answer The Question, what do you need?
+A clear and concise description of what the question is. 
 
 **To Reproduce**
 Steps to reproduce the behavior:
